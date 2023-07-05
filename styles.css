@@ -1,0 +1,39 @@
+/* *{
+  box-sizing: border-box;
+  margin: 0 auto;
+} */
+
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 48px;
+  background-color: rgb(253, 217, 170);
+}
+
+.imgIndex{
+  width: auto;
+  height: auto;
+  border-radius: 8%;
+}
+
+.liIndex{
+  list-style: none;
+  font-size: 28px;
+}
+
+p{
+  font-size: 28px;
+}
+
+h3{
+  font-size: 32px;
+  text-align: center;
+}
+
+.liRecipes{
+  font-size: 28px;
+}
